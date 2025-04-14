@@ -1,0 +1,1 @@
+# AzureCognitiveSearch_DECOLATECH2025
