@@ -4,9 +4,7 @@ Este readme descreve como configurar uma pesquisa usando o Azure AI Search. O pr
 
 Os recursos do Azure necessários incluem um recurso do Azure AI Search, um recurso do Azure AI services e uma conta de armazenamento com contêineres de blobs. O readme orienta o usuário na criação desses recursos e na configuração deles com configurações específicas. Ele também explica como carregar documentos no Armazenamento do Azure, indexar os documentos usando o assistente de importação de dados e consultar o índice usando o Explorador de pesquisa. Finalmente, ele demonstra como revisar os dados enriquecidos no armazenamento de conhecimento, incluindo projeções e tabelas.
 
-## Passo a passo para configurar uma pesquisa
-
-## Passo a passo simples para configurar o projeto de pesquisa
+## Passo a passo simples para configurar uma pesquisa
 
 Este guia oferece um resumo simplificado dos passos para configurar o projeto de pesquisa baseado no artigo do Azure AI Search.
 
